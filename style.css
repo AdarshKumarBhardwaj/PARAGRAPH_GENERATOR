@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(230, 201, 166);
+}
+.row{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    font-size: 25px;
+    
+}
+#items{
+       padding: 9px;
+       border-radius: 15px;
+       margin-left: 15px;
+}
+button{
+    cursor: pointer;
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 15px;
+    border-radius: 10px;
+    background-color: rgb(67, 67, 224);
+    color: white;
+}
+
+
